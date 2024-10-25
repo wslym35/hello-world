@@ -8,3 +8,5 @@ Dashes in markdown get turned into bulleted lists
 - second item 
 - etc. 
 
+Hello from Kinji :-) It's Friday. 
+
